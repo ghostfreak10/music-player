@@ -14,6 +14,12 @@ const music =new Audio();
 
 const songs=[
     {
+        path: 'music0.mp3',
+        displayName:'The lost soul down x Lost soul ',
+        cover:'lost.gif',
+        artist:'NBSPLV',
+    },
+    {
     path: 'music1.mp3',
     displayName:'Wasted',
     cover:'pic1.jpg',
