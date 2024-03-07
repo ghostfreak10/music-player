@@ -20,9 +20,15 @@ const songs=[
         artist:'NBSPLV',
     },
     {
+        path: 'music.mp3',
+        displayName:'I will do it x Metamorphosis ',
+        cover:'pic00.jpg',
+        artist:'CX1MERA',
+    },
+    {
     path: 'music1.mp3',
     displayName:'Wasted',
-    cover:'pic1.jpg',
+    cover:'pic01.jpg',
     artist:'juice world',
     },
     {
